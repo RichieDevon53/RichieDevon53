@@ -18,3 +18,6 @@ When I'm not coding, you can find me exploring new data science trends or optimi
 
 Let's connect! 🌍
 [LinkedIn](https://www.linkedin.com/in/richie-devon-sumantri-305456324) | [GitHub](https://github.com/RichieDevon53)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
