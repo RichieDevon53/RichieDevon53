@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I'm **Richie Devon Sumantri** 👨‍💻, a passionate Data Analyst transitioning from the marine and retail industry 🌊🛍️ into the world of **Data Science**. After completing the **Hacktiv8 Data Science Bootcamp** 🎓, I've honed my skills in turning raw data into actionable insights. I'm all about solving complex problems with data, whether it’s through deep learning 🧠, NLP, or creating AI-driven solutions 🤖.
+Hey there! I'm **Richie Devon Sumantri** 👨‍💻, a passionate Data Scientist / Data Engineer transitioning from the marine and retail industry 🌊🛍️ into the world of **Data Science**. After completing the **Hacktiv8 Data Science Bootcamp** 🎓, I've honed my skills in turning raw data into actionable insights. I'm all about solving complex problems with data, whether it’s through deep learning 🧠, NLP, or creating AI-driven solutions 🤖.
 
 ### 🔧 Technologies & Tools I Use:
 - **Languages**: Python 🐍, SQL 🛢️
