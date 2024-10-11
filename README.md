@@ -17,7 +17,7 @@ Hey there! I'm **Richie Devon Sumantri** 👨‍💻, a passionate Data Scientis
 When I'm not coding, you can find me exploring new data science trends or optimizing strategies in my favorite esports games! 🎮
 
 Let's connect! 🌍
-[LinkedIn](https://www.linkedin.com/in/richie-devon-sumantri-305456324) | [GitHub](https://github.com/RichieDevon53)
+[LinkedIn](https://www.linkedin.com/in/richie-devon-sumantri-305456324) | [GitHub](https://github.com/RichieDevon53) | [Webpage](https://richie-devon-sumantri.webnode.page)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
